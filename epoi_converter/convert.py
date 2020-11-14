@@ -129,7 +129,7 @@ def convert_names(images: List[str]) -> Dict[str, str]:
             free_number = find_free_number(used_numbers)
             assert free_number <= 99, "images count > 99"
             result[image] = f"{free_number:02}_{filter_valid_chars(image)[:13]}"
-            used_numbers.add(number)
+            used_numbers.add(free_number)
 
     return result
 
