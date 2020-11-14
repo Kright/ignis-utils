@@ -1,0 +1,30 @@
+11_black - 00:04:81 
+14_white - 00:20:80
+02_slowdown_blu - 00:34:13 (8.0)
+23_spl_blue - 00:37:02
+04_trap - 00:44:82 (0.2)
+01_strob_stars - 00:52:96
+05_strob - 00:56:99 (1.0)
+23_spl_blue - 01:05:04
+20_blue_white - 01:08:98 (0.4)
+21_white_rab - 01:16:95 (0.5)
+20_blue_white - 01:19:00 (0.7)
+03_change - 01:25:01 
+04_trap - 01:48:97  
+06_red_puls - 01:57:03 (0.1)
+06_red_puls - 02:01:02 (0.1)
+08_red_strobe - 02:04:82
+12_plasmaorbs - 02:05:82 (4.0)
+09_red_str_norm - 02:10:51
+11_black - 02:11:93
+13_strob_red - 02:12:83
+07_red_ch - 02:16:98 (0.5)
+10_fract - 02:21:02
+06_red_puls - 02:24:96 (8.0)
+08_red_strobe - 02:26:46
+11_black - 02:28:01
+07_red_ch - 02:32:98 (4.0)
+11_black - 02:35:26
+Finish - 02:44:43
+Repeat after finish - no
+Lock buttons - yes
